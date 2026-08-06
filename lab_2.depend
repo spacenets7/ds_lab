@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1786008423 source:d:\251090570214_ds\lab_2\lab_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1786008893 source:d:\251090570214_ds\lab_2\lab_2\l2p1.c
+	<stdio.h>
+	<stdlib.h>
+
+1786009042 source:d:\251090570214_ds\lab_2\lab_2\l2p2.c
+	<stdio.h>
+	<stdlib.h>
+
+1786009150 source:d:\251090570214_ds\lab_2\lab_2\l2p3.c
+	<stdio.h>
+	<stdlib.h>
+
+1786009298 source:d:\251090570214_ds\lab_2\lab_2\l2p4ex.c
+	<stdio.h>
+
+1786009298 source:d:\251090570214_ds\lab_2\lab_2\l2p5ex.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
