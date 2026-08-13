@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1786615835 source:d:\251090570214_ds\lab_3\lab_3\l3p1.c
+	<stdio.h>
+
+1786615844 source:d:\251090570214_ds\lab_3\lab_3\l3p2.c
+	<stdio.h>
+	<string.h>
+
+1786615678 source:d:\251090570214_ds\lab_3\lab_3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1786615753 source:d:\251090570214_ds\lab_3\lab_3\l3p3.c
+	<stdio.h>
+
