@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1789636488 source:d:\251090570214_ds\lab_7\lab_7\l7p1.c
+	<stdio.h>
+	<stdlib.h>
+
+1789635097 source:d:\251090570214_ds\lab_7\lab_7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1789636529 source:d:\251090570214_ds\lab_7\lab_7\l7p2.c
+	<stdio.h>
+	<stdlib.h>
+
